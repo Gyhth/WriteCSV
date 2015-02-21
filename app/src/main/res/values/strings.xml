@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WriteCSV</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtNameDefault">Your Name</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="strUsingContractor">Are you using a contractor?</string>
+    <string name="strYes">Yes</string>
+    <string name="strNo">No</string>
+
+</resources>
